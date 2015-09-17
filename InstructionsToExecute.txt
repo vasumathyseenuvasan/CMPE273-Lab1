@@ -1,0 +1,14 @@
+1. Set GOPATH:
+Linux:
+$ export GOPATH=/c/Users/vasumathy/Documents/Vasu/SJSU/273_Course/Lab1
+Windows:
+set GOPATH="c:/Users/vasumathy/Documents/Vasu/SJSU/273_Course/Lab1"
+
+2. Go to the directory of the source validator and install validator.go package
+Linux, Windows: 
+go install
+
+3. Go to the directory of the source package (Lab1). Exceute the source, test files
+
+
+
